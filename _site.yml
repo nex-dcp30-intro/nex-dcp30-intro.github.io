@@ -1,0 +1,9 @@
+name: "nex-dcp30-intro"
+navbar:
+  title: "nex-dcp30-intro"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: "."
