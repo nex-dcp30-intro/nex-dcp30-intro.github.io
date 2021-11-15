@@ -3,9 +3,6 @@ title: "About"
 ---
 
 ## Team Members
-<<<<<<< HEAD
-- [Desik Somasundaram](https://github.com/desik23)
-=======
 
+- [Desik Somasundaram](https://github.com/desik23)
 - [Joe DeCesaro](https://github.com/joedecesaro)
->>>>>>> 0ac3e4c8e991f8cf1cd06233ef44c55881bebe54
