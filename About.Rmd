@@ -4,4 +4,8 @@ title: "About"
 
 ## Team Members
 
+
 - [Daniel Kerstan](https://github.com/danielkerstan)
+- [Desik Somasundaram](https://github.com/desik23)
+- [Joe DeCesaro](https://github.com/joedecesaro)
+
