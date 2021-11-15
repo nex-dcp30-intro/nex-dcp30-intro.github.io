@@ -3,3 +3,4 @@ title: "About"
 ---
 
 ## Team Members
+- [Desik Somasundaram](https://github.com/desik23)
