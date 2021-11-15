@@ -3,3 +3,5 @@ title: "About"
 ---
 
 ## Team Members
+
+- [Daniel Kerstan](https://github.com/danielkerstan)
