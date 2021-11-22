@@ -4,6 +4,6 @@ title: "Home"
 
 # EDS 211 Group Project: nex-dcp30-intro
 
-Daniel Kerstan, Desik Somasundaram, and Joe DeCesaro 
+Daniel Kerstan, Desik Somasundaram, and Joe DeCesaro
 
 [Our GitHub Organization's Repo](https://github.com/nex-dcp30-intro)
